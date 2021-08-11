@@ -7,4 +7,4 @@ The scanning surface is built inside the same viewcontroller and occupies only a
 The result of the scanning is shown on the section below.
 
 -This requires to build a containerViewController that will behave as the ChildViewController of the the ViewController which holds both ways of searching. 
-
+-Additional features will be added for study purpose.
